@@ -1,0 +1,18 @@
+# OS Stuff
+.DS_Store
+desktop.ini
+
+# LTSpice
+*.op.raw
+*.raw
+*.log
+*.fft
+*.net
+
+# KiCad
+*.000
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/fp-info-cache
+*.lck
